@@ -1,0 +1,9 @@
+{
+	"id": "move-footnotes",
+	"name": "Move Footnotes",
+	"version": "0.1",
+	"minAppVersion": "1.3.5",
+	"description": "Moves footnotes (if exists) in Reading Mode to the line that contains <footnotes/> (if exists).",
+	"author": "Amonimus",
+	"isDesktopOnly": false
+}
